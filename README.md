@@ -1,1 +1,1 @@
-# mini_project
+# Enhanced Crowd Monitoring and Risk Assessment System
